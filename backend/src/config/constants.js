@@ -1,0 +1,1 @@
+export const DB_NAME ="sanskritimittal25cse_db_user"

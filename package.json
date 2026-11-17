@@ -1,0 +1,27 @@
+{
+  "name": "student-backend-project",
+  "version": "1.0.0",
+  "description": "THIS IS MY FIRST BACKENED PROJECT",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node backend /src/index.js",
+    "dev": "nodemon backend /src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanskritimittal25cse-collab/student-backend-project.git"
+  },
+  "author": "sanskriti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sanskritimittal25cse-collab/student-backend-project/issues"
+  },
+  "homepage": "https://github.com/sanskritimittal25cse-collab/student-backend-project#readme",
+  "dependencies": {
+    "dotenv": "^18.0.10",
+    "express": "^5.3.0",
+    "mongoose": "^9.12.2",
+    "nodemon": "^3.1.14"
+  }
+}
